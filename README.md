@@ -68,7 +68,7 @@ Connect the components to the STM32 board as follows:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/MuditGoyal3156/Stm32f446re-based-Reverse-Parking-sensor.git](https://github.com/MuditGoyal3156/Stm32f446re-based-Reverse-Parking-sensor.git)
+   git clone https://github.com/MuditGoyal3156/Stm32f446re-based-Reverse-Parking-Sensor.git
     ```
 
 2.  **Open the Project**: Open the source code in your preferred STM32 development environment.
